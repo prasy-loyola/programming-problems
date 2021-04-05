@@ -2,4 +2,4 @@ The task is to write code that will print text which will be similar to the text
 
 The output.txt file has many tasks marked with #Task name. You can solve them one by one.
 
-Try to achieve the same output with minimum number of lines.
+Try to achieve the same output with minimum number of lines of code.
